@@ -86,7 +86,3 @@ Error:
  # 然后重新执行docker安装命令：
  	yum install  docker-ce 
 ```
-
-
-
-[​返回上级](https://jkf71010.github.io/ )​
